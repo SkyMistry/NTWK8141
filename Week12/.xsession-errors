@@ -1,0 +1,100 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/sysadmin/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_CA:en
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/sysadmin
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=sysadmin
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/sysadmin/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/sysadmin
+dbus-update-activation-environment: setting GDM_LANG=en_CA
+dbus-update-activation-environment: setting HOME=/home/sysadmin
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_CA.UTF-8
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting USER=sysadmin
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/sysadmin/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+
+** (csd-color:1395): WARNING **: 19:22:13.570: failed to get edid: unable to get EDID for output
+
+** (csd-color:1395): WARNING **: 19:22:13.581: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+Gjs-Message: 19:22:14.056: Profiler is disabled. Not setting up signals.
+Gjs-Message: 19:22:14.290: JS LOG: About to start Cinnamon (X11 backend)
+Gjs-Message: 19:22:14.449: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 156 ms
+Gjs-Message: 19:22:14.454: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon/cinnamon.css
+Gjs-Message: 19:22:14.473: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark-Aqua/cinnamon
+Gjs-Message: 19:22:14.608: JS LOG: [LookingGlass/info] loaded at Wed Jul 24 2024 19:22:14 GMT-0400 (Eastern Daylight Saving Time)
+Gjs-Message: 19:22:14.608: JS LOG: Cinnamon started at Wed Jul 24 2024 19:22:14 GMT-0400 (Eastern Daylight Saving Time)
+Gjs-Message: 19:22:14.622: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Gjs-Message: 19:22:14.622: JS LOG: [LookingGlass/info] DeskletManager started in 1 ms
+Gjs-Message: 19:22:14.622: JS LOG: [LookingGlass/info] SearchProviderManager started in 1 ms
+Gjs-Message: 19:22:14.667: JS LOG: [LookingGlass/info] Loaded applet separator@cinnamon.org in 16 ms
+Gjs-Message: 19:22:14.671: JS LOG: [LookingGlass/info] Role locked: tray
+Gjs-Message: 19:22:14.674: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 7 ms
+Gjs-Message: 19:22:14.683: JS LOG: [LookingGlass/info] Role locked: notifications
+Gjs-Message: 19:22:14.764: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 90 ms
+Gjs-Message: 19:22:14.788: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 24 ms
+Gjs-Message: 19:22:14.888: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 100 ms
+Gjs-Message: 19:22:14.909: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 21 ms
+Gjs-Message: 19:22:15.141: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 232 ms
+Gjs-Message: 19:22:15.212: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 71 ms
+Gjs-Message: 19:22:15.228: JS LOG: [LookingGlass/info] Loaded applet cornerbar@cinnamon.org in 16 ms
+Gjs-Message: 19:22:15.241: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Gjs-Message: 19:22:15.241: JS LOG: [LookingGlass/info] Role locked: windowattentionhandler
+Gjs-Message: 19:22:15.244: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 16 ms
+Gjs-Message: 19:22:15.252: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 8 ms
+Gjs-Message: 19:22:15.280: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 28 ms
+Gjs-Message: 19:22:15.381: JS LOG: calendar@cinnamon.org: Calendar events supported.
+cinnamon-session[1173]: WARNING: t+2.16450s: Detected that screensaver has appeared on the bus
+** Message: 19:22:15.530: nemo-desktop: session is cinnamon, establishing proxy
+
+** (csd-power:1400): CRITICAL **: 19:22:15.572: abs_to_percentage: assertion 'max > min' failed
+blueman-applet 19.22.15 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+Gjs-Message: 19:22:15.600: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 320 ms
+Gjs-Message: 19:22:15.602: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.47/org/x/StatusIcon/Icon)
+Gjs-Message: 19:22:15.616: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.47/org/x/StatusIcon/Icon)
+Gjs-Message: 19:22:15.625: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 25 ms
+blueman-applet 19.22.15 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+Gjs-Message: 19:22:15.745: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 120 ms
+Gjs-Message: 19:22:15.746: JS LOG: [LookingGlass/info] AppletManager started in 1137 ms
+Gjs-Message: 19:22:15.749: JS LOG: [LookingGlass/info] Cinnamon took 1459 ms to start
+Gjs-Message: 19:22:15.787: JS LOG: Unknown network device type, is 14
+Gjs-Message: 19:22:16.173: JS LOG: [LookingGlass/info] GPU offload supported: false
+Gjs-Message: 19:22:18.806: JS LOG: Enabling WindowAttentionHandler
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1376: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1761: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:803: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+Gjs-Message: 19:22:35.628: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.72/org/x/StatusIcon/Icon)
+blueman-applet 19.22.37 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+cinnamon-session[1173]: WARNING: t+32.16880s: Detected that screensaver has left the bus
+Gjs-Message: 19:22:55.002: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.75/org/x/StatusIcon/Icon)
+Gjs-Message: 19:22:55.005: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: process-monitor (:1.75/org/x/StatusIcon/Icon_1)
+cinnamon-session[1173]: WARNING: t+2182.94695s: Detected that screensaver has appeared on the bus
+cinnamon-session[1173]: WARNING: t+2212.95849s: Detected that screensaver has left the bus
